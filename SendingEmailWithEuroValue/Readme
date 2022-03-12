@@ -1,0 +1,4 @@
+This python code was created using jupyter.
+It automates the job to search for the value of euro and writing the email.
+The code waits the user to log in and then the email is sent.
+The methodology was created to run using outlook.
