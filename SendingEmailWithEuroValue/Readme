@@ -1,4 +1,6 @@
 This python code was created using jupyter.
-It automates the job to search for the value of euro and writing the email.
+It automates the job to search for the value of euro in relation to reais.
+The code uses panda to read from an excel table. After some cleaning it calculates the total expenses.
+The main information is sent automaticaly via e-mail.
 The code waits the user to log in and then the email is sent.
 The methodology was created to run using outlook.
